@@ -1,0 +1,102 @@
+[
+  {
+    "id": "q01",
+    "question": "Who is considered a consumer under the Consumer Protection Act, 2019?",
+    "expected_sections": ["2"]
+  },
+  {
+    "id": "q02",
+    "question": "What rights are included in consumer rights under the Act?",
+    "expected_sections": ["2"]
+  },
+  {
+    "id": "q03",
+    "question": "What is meant by a defect in goods or a product?",
+    "expected_sections": ["2"]
+  },
+  {
+    "id": "q04",
+    "question": "What does deficiency mean in relation to a service?",
+    "expected_sections": ["2"]
+  },
+  {
+    "id": "q05",
+    "question": "What is an unfair trade practice?",
+    "expected_sections": ["2"]
+  },
+  {
+    "id": "q06",
+    "question": "Does the definition of consumer cover purchases made online?",
+    "expected_sections": ["2"]
+  },
+  {
+    "id": "q07",
+    "question": "What is the role of the Central Consumer Protection Authority?",
+    "expected_sections": ["10"]
+  },
+  {
+    "id": "q08",
+    "question": "Who can file a consumer complaint before the District Commission?",
+    "expected_sections": ["35"]
+  },
+  {
+    "id": "q09",
+    "question": "Can a consumer complaint be filed electronically?",
+    "expected_sections": ["35"]
+  },
+  {
+    "id": "q10",
+    "question": "What happens after the District Commission admits a consumer complaint?",
+    "expected_sections": ["38"]
+  },
+  {
+    "id": "q11",
+    "question": "What can the District Commission order when a defect in goods is proved?",
+    "expected_sections": ["39"]
+  },
+  {
+    "id": "q12",
+    "question": "Can the District Commission order replacement of defective goods or refund the price?",
+    "expected_sections": ["39"]
+  },
+  {
+    "id": "q13",
+    "question": "How long does a consumer have to file a complaint after the cause of action arises?",
+    "expected_sections": ["69"]
+  },
+  {
+    "id": "q14",
+    "question": "Can a consumer complaint be accepted after the normal limitation period?",
+    "expected_sections": ["69"]
+  },
+  {
+    "id": "q15",
+    "question": "How can a person appeal an order of the District Commission?",
+    "expected_sections": ["41"]
+  },
+  {
+    "id": "q16",
+    "question": "What is the role of consumer mediation cells?",
+    "expected_sections": ["74"]
+  },
+  {
+    "id": "q17",
+    "question": "What happens when the parties reach a settlement through consumer mediation?",
+    "expected_sections": ["80", "81"]
+  },
+  {
+    "id": "q18",
+    "question": "When can a consumer bring a product liability action for harm caused by a defective product?",
+    "expected_sections": ["82", "83"]
+  },
+  {
+    "id": "q19",
+    "question": "When is a product manufacturer liable for a defective product?",
+    "expected_sections": ["84"]
+  },
+  {
+    "id": "q20",
+    "question": "When can a product seller who is not the manufacturer be liable for harm caused by a defective product?",
+    "expected_sections": ["86"]
+  }
+]
